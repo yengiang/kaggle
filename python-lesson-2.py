@@ -38,3 +38,4 @@ def to_smash(total_candies, fn = 3):
     1
     """
     return total_candies % fn
+#meo meo
